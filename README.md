@@ -1,2 +1,2 @@
-# bootstrap-project
+# bootstrap-WebProject
 Web Design Project using Bootstrap 
